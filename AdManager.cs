@@ -3,7 +3,7 @@ using admob;
 
 public class AdManager : MonoBehaviour
 {
-    Admob ad;
+    	Admob ad;
 	string appID="";
 	string bannerID="";
 	string interstitialID="";
